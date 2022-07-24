@@ -1,0 +1,73 @@
+
+.jumbotron{
+padding-top: 6rem;
+background-color: #e2edff;
+font-family: sans-serif;
+
+
+}
+
+#projects{
+    background-color: #e2edff;
+
+}
+
+section{
+padding-top: 5rem;
+
+}
+
+.navbar-brand {
+
+        background: linear-gradient(to right,#fff 20%,#569aff 40%,#217de0 60%,#fff 80%);
+        background-size: 200% auto;
+        color: #000;
+        background-clip: text;
+        font-family: 'Poppins', sans-serif;
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        animation: animate 2s linear infinite;
+        }
+        
+        @keyframes animate {
+        to {
+        background-position: 200% center;
+        
+        }
+        }
+
+
+        .nav-item {
+
+            background: linear-gradient(to right,#fff 20%,#569aff 40%,#217de0 60%,#fff 80%);
+            background-size: 200% auto;
+            color: #000;
+            background-clip: text;
+            font-family: 'Poppins', sans-serif;
+            -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: animate 2s linear infinite;
+            }
+            
+            @keyframes animate {
+            to {
+            background-position: 200% center;
+            
+            }
+            }
+
+
+        .gallery-img {
+width: 100%;
+
+
+        }
+    
+.gallery .row > * {
+
+    padding: 0;
+}
+
+
